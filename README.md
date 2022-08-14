@@ -7,8 +7,6 @@ The Telegram Messenger [MTProto proxy](https://github.com/TelegramMessenger/MTPr
 
 > This image is an unofficial fork of [telegrammessenger/proxy](https://hub.docker.com/r/telegrammessenger/proxy) which left unmaintained. Automatically built from the official implementation.
 
-## The Easiest Way
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ##  🚀 Quick Reference
